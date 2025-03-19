@@ -1,6 +1,6 @@
 # Keylogger-Lab ⌨️
 
-## Objective 💻
+## Objective 📝
 
 This lab focused on understanding keyloggers by simulating an attack and developing detection strategies. Using an open-source PowerShell keylogger, keystrokes were captured to mimic a real-world threat. Logs were collected with Sysmon, analyzed in Elastic SIEM, and custom detection rules were written to flag suspicious activity. This hands-on approach provided practical experience in attacker techniques, log analysis, and rule creation to improve threat detection.
 
